@@ -8,6 +8,7 @@ The languages that I used to approach the Fizz Buzz problem include the followin
 - Ada
 - C
 - C#
+- C++
 - Java
 - JavaScript
 - Python
