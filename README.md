@@ -5,7 +5,8 @@ which I demonstrated with numerous programming languages I have learned througho
 
 # Why Fizzbuzz
 Fizzbuzz can be used to learn new programming languages to understand its syntax and work with different control flows.
-The languages that I used to approach the Fizz Buzz problem include the following:
+
+# Languages Used 
 - PHP
 - Ada
 - C
